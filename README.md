@@ -70,11 +70,11 @@ Some skills and technologies that I study and use:
 
 **Social**
 <p>
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" />
   <a href="mailto:vitorlorencone@gmail.com">  
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <a href="https://seu-link-para-o-GoogleDrive">  
-    <img alt="Instagram" src="https://www.instagram.com/vitor_lorencone/" />
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="https://www.instagram.com/vitor_lorencone/">  
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" />
   <a href="www.linkedin.com/in/vitorlorencone">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
 </p>
